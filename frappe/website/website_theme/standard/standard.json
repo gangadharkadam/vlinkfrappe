@@ -1,16 +1,19 @@
 {
  "apply_style": 1, 
+ "background_color": "#FFFFFF", 
  "creation": "2015-02-19 13:37:33.925909", 
  "custom": 0, 
  "docstatus": 0, 
  "doctype": "Website Theme", 
  "font_size": "14px", 
+ "footer_color": "", 
  "heading_style": "", 
- "modified": "2015-06-10 16:23:32.975637", 
+ "modified": "2015-06-11 17:58:23.990822", 
  "modified_by": "Administrator", 
  "module": "Website", 
  "name": "Standard", 
  "no_sidebar": 1, 
  "owner": "Administrator", 
- "theme": "Standard"
+ "theme": "Standard", 
+ "top_bar_color": "#FFFFFF"
 }
